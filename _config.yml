@@ -23,7 +23,7 @@ port: 5000
 locale                   : "en-IN"
 title                    : "BDA 2023"
 title_separator          : "-"
-name                     : "bda23"
+name                     : "BDA23"
 description              : "Official website for the 2023 Conference on Big Data and Artificial Intelligence"
 url                      : "https://github.com/yashkumaratri/bda23" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

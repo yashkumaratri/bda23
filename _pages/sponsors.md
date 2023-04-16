@@ -147,11 +147,7 @@ di_champion:
     title: Snap Inc.
 ---
 
-EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
-
-If your organization would like to sponsor EMNLP or other conferences in the ACL family,
-please refer to our [**Sponsorship Booklet**](/downloads/Sponsorship brochure for ACL 2022 conferences - 2022-07-03-3.pdf)
-for information about sponsorship rates and benefits.
+Announcement Soon
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -174,30 +170,19 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Supporting Partner
 
-{% include sponsors-list id="partner" layout="third" %}
+<!-- ## Platinum -->
 
-## Diamond
+<!-- {% include sponsors-list id="platinum" layout="third" %} -->
 
-{% include sponsors-list id="diamond" layout="third" %}
+<!-- ## Gold -->
 
-## Platinum
+<!-- {% include sponsors-list id="gold" layout="third" %} -->
 
-{% include sponsors-list id="platinum" layout="third" %}
+<!-- ## Silver -->
 
-## Gold
+<!-- {% include sponsors-list id="silver" layout="third" %} -->
 
-{% include sponsors-list id="gold" layout="third" %}
+<!-- ## Bronze -->
 
-## Silver
-
-{% include sponsors-list id="silver" layout="third" %}
-
-## Bronze
-
-{% include sponsors-list id="bronze" layout="third" %}
-
-## Diversity and Inclusion: Champion
-
-{% include sponsors-list id="di_champion" layout="third" %}
+<!-- {% include sponsors-list id="bronze" layout="third" %} -->

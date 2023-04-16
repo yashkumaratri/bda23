@@ -10,7 +10,7 @@ excerpt: "IIIT Delhi<br>December 7&ndash;9, 2023"
 
 ## Welcome!
 
-BDA 2023 will take place in IIIT Delhi, India from **December 7th to December 9th, 2023**. The conference will be held in offline mode.
+BDA 2023 will take place in IIIT Delhi, India from **December 7th to December 9th, 2023**. The conference will be held in Hybrid mode.
 
 
 
@@ -52,15 +52,11 @@ BDA 2023 will take place in IIIT Delhi, India from **December 7th to December 9t
 </p>
 </div> -->
 
-<!-- [**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
-{: .text-center .notice--info} -->
-
-
-
-[**Call for Papers -- soon**].
+[**Call for Papers -- Announced**](https://bda23.iiitd.edu.in/calls/)
 {: .text-center .notice--info}
 
-
+[**Program Committe -- Announced**](https://bda23.iiitd.edu.in/organization/)
+{: .text-center .notice--info}
 
 
 <!-- <div class="text-center notice--danger">
@@ -128,12 +124,12 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Paper Submission Deadline &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; |   TBD | TBD |
+| Paper Submission Deadline &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; |   Wednesday | August 2, 2023 |
 | Workshop Proposals Deadline | TBD| TBD |
 | Workshop Acceptance Notification | TBD| TBD |
-| Paper Acceptance Notification | TBD| TBD |
-| Camera-ready Submission Deadline | TBD| TBD |
-| Conference: Main and Tutorials Dec 07 - 09, 2023 | TBD | TBD |
+| Paper Acceptance Notification | Tuesday | October 10, 2023 |
+| Camera-ready Submission Deadline | Friday | October 20, 2023 |
+| Conference: Main and Tutorials Dec 07 - 09, 2023 | Thursday - Saturday | Dec 07 - 09, 2023 |
 {: .dates-table}
 All deadlines are 11:59:59 PM IST (GMT +5:30).
 

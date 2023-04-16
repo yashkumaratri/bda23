@@ -21,22 +21,22 @@ main:
   #   url: "http://bda23.iiitd.edu.in/"
 
   - title: "Calls"
-    url: "http://bda23.iiitd.edu.in/"
+    url: "/calls/"
       
   - title: "Committees"
-    url: "http://bda23.iiitd.edu.in/"
+    url: "/organization/"
   
   - title: "Sponsors"
-    url: "http://bda23.iiitd.edu.in/"
+    url: "/sponsors/"
   
   - title: "Contact"
-    url: "http://bda23.iiitd.edu.in/"
+    url: "/contact/"
     
   # - title: "Volunteers"
   #   url: /volunteers 
   
   - title: "Venue"
-    url: "http://bda23.iiitd.edu.in/"
+    url: "/venue/"
 
   #- title: "Reviewer"
   #  url: /not_available

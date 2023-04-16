@@ -64,13 +64,10 @@
 <loc>http://0.0.0.0:5000/calls/papers/Instructions</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:5000/calls/main_conference_papers/</loc>
+<loc>http://0.0.0.0:5000/calls/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:5000/calls/papers/Mandatory-abstract-submission</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:5000/calls/papers/Overview</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:5000/calls/papers/Presentation-Requirement</loc>
